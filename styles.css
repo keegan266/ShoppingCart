@@ -1,0 +1,63 @@
+.body-container {
+    margin: auto;
+    text-align: center;
+}
+
+.jumbotron {
+    padding-top: 60px;
+    padding-bottom: 10px;
+}
+
+.card {
+    border: none;
+    display: inline-block;
+    text-align: center;
+}
+
+.icon {
+    max-width: 60px;
+    position: relative;
+    bottom: 110px;
+    left: 300px;
+}
+
+.icon:hover {
+    cursor: pointer;
+}
+
+img {
+    max-width: 250px;
+    border-radius: 92%;
+}
+
+button {
+    color: white !important;
+}
+
+a {
+    color: white !important;
+}
+
+.add {
+    max-width: 40px;
+    bottom: 130px;
+    left: 280px;
+    opacity: 0;
+}
+
+.opacity100 {
+    opacity: 100;
+}
+
+.disabled {
+    cursor: not-allowed;
+    color: grey;
+}
+
+#buttonRemove {
+    margin-left: 20px;
+}
+
+span {
+    font-weight: bold;    
+}
